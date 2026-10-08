@@ -140,8 +140,7 @@ Runs record sample failures and continue, then exit nonzero if any sample failed
 ### Any-to-Any
 
 The [`any-to-any/`](any-to-any/) directory contains the any-to-any baselines:
-[AnyGPT](any-to-any/AnyGPT/), [Omni-Diffusion](any-to-any/Omni-Diffusion/),
-[Dynin-Omni](any-to-any/Dynin-omni/), and
+[AnyGPT](any-to-any/AnyGPT/), [Omni-Diffusion](any-to-any/Omni-Diffusion/), and
 [HyperCLOVA X](any-to-any/hyperclova-omni/). These workflows use the same benchmark
 inputs and generate text, image, and speech candidates for evaluation.
 
